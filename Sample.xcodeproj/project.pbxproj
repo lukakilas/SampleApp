@@ -197,6 +197,7 @@
 		306168322B1AA0E5007A8342 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3067E0C32B14DE650092F370 /* Info.plist */,
 				3067E0B52B14DE640092F370 /* AppDelegate.swift */,
 				3067E0B72B14DE640092F370 /* SceneDelegate.swift */,
 				3067E0BE2B14DE650092F370 /* Assets.xcassets */,
@@ -339,7 +340,6 @@
 				30EAC25E2B1662E100D2F35D /* Extensions */,
 				306168322B1AA0E5007A8342 /* Supporting Files */,
 				3061685E2B1B5E88007A8342 /* UIComponents */,
-				3067E0C32B14DE650092F370 /* Info.plist */,
 			);
 			path = Sample;
 			sourceTree = "<group>";
@@ -768,11 +768,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M3VF8PZSTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Sample/Info.plist;
+				INFOPLIST_FILE = "Sample/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -795,11 +794,10 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M3VF8PZSTJ;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Sample/Info.plist;
+				INFOPLIST_FILE = "Sample/Supporting Files/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
